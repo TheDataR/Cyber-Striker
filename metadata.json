@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Striker",
+  "description": "Fast-paced neon cyberpunk first-person shooter featuring multiple weapon classes including sniper rifle, interactive battlefields, and fluid combat movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
